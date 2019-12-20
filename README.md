@@ -12,4 +12,4 @@ https://www.kaggle.com/c/bike-sharing-demand
 <pre><code>traindata = read("train.csv") # 데이터 읽기
 traindata.drop('holiday', axis=1, inplace=True) #필요없는 데이터 없애고 적용</code></pre>
 
-![Alt text](C:\Users\05fai\Desktop\데이터.png)
+![데이터](./이미지/데이터.png)
